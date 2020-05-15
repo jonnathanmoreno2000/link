@@ -1,0 +1,13 @@
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\obj\Debug\netcoreapp3.1\vehiculoComponente.csprojAssemblyReference.cache
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\obj\Debug\netcoreapp3.1\vehiculoComponente.csproj.CoreCompileInputs.cache
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\obj\Debug\netcoreapp3.1\vehiculoComponente.AssemblyInfoInputs.cache
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\obj\Debug\netcoreapp3.1\vehiculoComponente.AssemblyInfo.cs
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\bin\Debug\netcoreapp3.1\vehiculoComponente.exe
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\bin\Debug\netcoreapp3.1\vehiculoComponente.deps.json
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\bin\Debug\netcoreapp3.1\vehiculoComponente.runtimeconfig.json
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\bin\Debug\netcoreapp3.1\vehiculoComponente.runtimeconfig.dev.json
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\bin\Debug\netcoreapp3.1\vehiculoComponente.dll
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\bin\Debug\netcoreapp3.1\vehiculoComponente.pdb
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\obj\Debug\netcoreapp3.1\vehiculoComponente.dll
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\obj\Debug\netcoreapp3.1\vehiculoComponente.pdb
+C:\Users\moren\source\repos\vehiculoComponente\vehiculoComponente\obj\Debug\netcoreapp3.1\vehiculoComponente.genruntimeconfig.cache
